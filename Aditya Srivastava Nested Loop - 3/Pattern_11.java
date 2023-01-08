@@ -1,0 +1,14 @@
+class Pattern_11
+{
+    public static void main()
+    {
+        for(int x=4;x<=8;x++)
+        {
+            for(int y=1;y<=9-x;y++)
+            {
+                System.out.print(x);
+            }
+            System.out.println();
+        }
+    }
+}
