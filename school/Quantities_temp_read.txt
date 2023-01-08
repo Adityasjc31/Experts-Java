@@ -1,0 +1,1 @@
+Quantities_taken	Item	Item_Price	Item_Code
